@@ -1,11 +1,11 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Riverpod 3.0: Spoiler Alert! 🚀
 
-To start the slide show:
+How to read these slides:
+
+(yep, you need `node` and `npm` installed, possibly up to date)
 
 - `npm install`
 - `npm run dev`
 - visit http://localhost:3030
 
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
+Built with [Slidev](https://sli.dev/).
